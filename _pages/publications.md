@@ -16,7 +16,6 @@ During my master and PhD studies I contributed to several astrophysical publicat
 		<sub>{{ post.date | date: '%B %d, %Y' }}</sub>
 		<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
 
-	  	{{ post.description }}
 		{{ post.excerpt }}
 
 	{% endif %}
