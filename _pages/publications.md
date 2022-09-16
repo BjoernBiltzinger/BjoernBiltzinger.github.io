@@ -17,11 +17,12 @@ During my master and PhD studies I contributed to several astrophysical publicat
 		<br>
 		<a href="{{ post.url }}">{{ post.title }}</a>
 
-		<small>{{ post.excerpt| truncate: 100, "..." }}</small>
+		<small>
+		{{ post.excerpt| truncate: 100, "..." }}
+		
 		
 		<hr>
 
-	</div>
-</div>
+
 {% endif %}
 {% endfor %}
