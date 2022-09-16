@@ -13,7 +13,8 @@ During my master and PhD studies I contributed to several astrophysical publicat
 	<div class="small-12 columns">
   	
 	 {% if post.category == 'publications'  %}	
-		<i>{{ post.date | date: '%B %d, %Y' }}</i>
+		<small><i>{{ post.date | date: '%B %d, %Y' }}</i></small>
+		<br>
 		<a href="{{ post.url }}">{{ post.title }}</a>
 
 		{{ post.excerpt| truncate: 100, "..." }}
