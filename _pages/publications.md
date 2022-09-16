@@ -13,11 +13,11 @@ During my master and PhD studies I contributed to several astrophysical publicat
 	<div class="small-12 columns">
   	
 	 {% if post.category == 'publications'  %}	
-		
+		<i>{{ post.date | date: '%B %d, %Y' }}</i>
 		<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
 
-		{{ post.excerpt }}
-		<sub>{{ post.date | date: '%B %d, %Y' }}</sub>
+		{{ post.excerpt| truncate: 100, "..." }}
+		
 		<hr>
 	{% endif %}
 
