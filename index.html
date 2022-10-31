@@ -1,4 +1,52 @@
 ---
-layout: home
-author_profile: true
+layout: splash #home
+permalink: /
+hidden: true
+header:
+    overlay_color: "#5e616c"
+    # overlay_image: /assets/images/pypsi_logo2.png
+excerpt: "PhD Student in high-energy experimental astrophysics."
+main:
+  - image_path: /assets/images/pypsi_logo2.png
+    alt: "alt"
+    title: "PySPI"
+    excerpt: "A python analysis framework for INTEGRAL/SPI"
+    url: "https://pyspi.readthedocs.io/en/latest/"
+    btn_class: "btn--primary"
+    btn_label: "See more"
+  - image_path: /assets/images/pypsi_logo2.png
+    alt: "alt"
+    title: "GBM Background"
+    excerpt: "Simulation and fitting software for the time-dependent background seen by Fermi/GBM"
+    url: "https://bjoernbiltzinger.github.io/GBM-background-model/"
+    btn_class: "btn--primary"
+    btn_label: "See more"
+contri:
+  - image_path: /assets/images/3ml_logo.png
+    alt: "alt"
+    title: "3ML"
+    excerpt: "Multi-Mission Maximum Likelihood Framework"
+    url: "https://threeml.readthedocs.io/en/stable/"
+    btn_class: "btn--primary"
+    btn_label: "See more"
+link: publications
 ---
+
+By the use of new exciting data and theories, we push our knowledge of the universe every day a bit further.
+<br>
+<br>
+But it is important to keep in mind that most of our results depend on assumptions, both on the theory and on the data analysis side.
+<br>
+<br>
+My main interest is to further develop data analysis tools, to avoid false claims, based on wrong assumptions, and maximize the information we can get from the observations.
+<br>
+<br>
+During my PhD I wrote several papers about this topic and its application to physical problems.
+<br>
+<br>
+These works resulted in the following software packages:
+<hr>
+<p style="text-align:center"><b> Main developer for: </b></p>
+{% include feature_row id="main" type="center" %}
+<p style="text-align:center"> <b>Large contribution to:</b> </p>
+{% include feature_row id="contri" type="center" %}
