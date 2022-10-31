@@ -138,6 +138,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:bbiltzing@mpe.mpg.de"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BjoernBiltzinger"
