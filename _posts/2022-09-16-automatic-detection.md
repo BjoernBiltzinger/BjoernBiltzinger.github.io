@@ -3,7 +3,7 @@ layout: paper
 title: Automatic detection of long-duration transients in Fermi-GBM data
 category: publications
 preview_text: Using the physical background model we developed and a change point detection algorithm to identify long but slowly rising transients (e.g. ultra long gamma-ray bursts) in the GBM data.
-authors: <a href="https://orcid.org/0000-0002-9424-4385">Felix Kunzweiler</a>, Björn Biltzinger, <a href="https://orcid.org/0000-0002-9875-426X">Jochen Greiner</a>, <a href="https://orcid.org/0000-0003-3345-9515">J. Michal Burgess</a>
+authors: <a href="https://orcid.org/0000-0002-9424-4385">Felix Kunzweiler</a>, Björn Biltzinger, <a href="https://orcid.org/0000-0002-9875-426X">Jochen Greiner</a>, <a href="https://orcid.org/0000-0003-3345-9515">J. Michael Burgess</a>
 link_to_paper: https://www.aanda.org/articles/aa/full_html/2022/09/aa43287-22/aa43287-22.html
 citations: 0
 ---

@@ -3,7 +3,7 @@ layout: paper
 title: Physical Background Model for Fermi/GBM
 category: publications
 preview_text: The background in low Earth orbit gamma-ray telescopes is complex and changing on a short time scale of ~100 seconds, due to the short orbital period of the satellites and the large number of different sources contributing to the background. We present the first physical background model, which is able to fit the background of several detectors of the gamma-ray burst monitor (GBM) simultaneously, and its applications.
-authors: Björn Biltzinger, <a href="https://orcid.org/0000-0002-9424-4385">Felix Kunzweiler</a>, <a href="https://nl.linkedin.com/in/kilian-toelge">Kilan Toelge</a>, <a href="https://orcid.org/0000-0002-9875-426X">Jochen Greiner</a>, <a href="https://orcid.org/0000-0003-3345-9515">J. Michal Burgess</a>
+authors: Björn Biltzinger, <a href="https://orcid.org/0000-0002-9424-4385">Felix Kunzweiler</a>, <a href="https://nl.linkedin.com/in/kilian-toelge">Kilan Toelge</a>, <a href="https://orcid.org/0000-0002-9875-426X">Jochen Greiner</a>, <a href="https://orcid.org/0000-0003-3345-9515">J. Michael Burgess</a>
 link_to_paper: https://www.aanda.org/articles/aa/full_html/2020/08/aa37347-19/aa37347-19.html
 citations: 10
 ---
