@@ -14,7 +14,7 @@ menu__settings:
     - title: 'Blog'
       url: '/blog/'
     - title: 'About Me'
-      url: '/about/'
+      url: '/about'
     #- title: 'Pages'
     #  submenu:
     #  - url: '/about'
