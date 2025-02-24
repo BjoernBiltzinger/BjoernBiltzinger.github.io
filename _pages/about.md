@@ -23,10 +23,10 @@ Since July 2023, I've been a Senior Software and Data Engineer at hema.to, where
 While data and algorithms fuel my professional life, I'm equally passionate about maintaining a balanced lifestyle:
 
 ## Sports
-For me, sports are all about balance and mental well-being. I enjoy regular exercise as a way to decompress from work, typically engaging in outdoor activities like jogging, hiking, cycling, or casual fitness routines. 
+For me, sports is all about balance and mental well-being. I enjoy regular exercise as a way to decompress from work, typically engaging in outdoor activities like jogging, hiking, cycling, or casual fitness routines. 
 
 ## Reading
-My reading is a blend of curiosity and relaxation. I enjoy diving into a wide range of non-fiction books that explore everything from history and science to psychology and current affairs. Alongside non-fiction, I'm a fan of novels—particularly thrillers. My bookshelf is a eclectic mix that reflects my broad interests, always ready to explore new perspectives and learn something unexpected.
+My reading is a blend of curiosity and relaxation. I enjoy diving into a wide range of non-fiction books that explore everything from history and science to psychology and current affairs. Alongside non-fiction, I'm a fan of novels—particularly thrillers. My bookshelf is an eclectic mix that reflects my broad interests, always ready to explore new perspectives and learn something unexpected.
 
 ## Gaming
 Video games are my go-to for relaxation. I love spending time playing casual multiplayer games with friends, enjoying the camaraderie and fun of shared gaming experiences without taking things too seriously.
