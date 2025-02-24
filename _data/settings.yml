@@ -25,6 +25,8 @@ menu__settings:
 # Call to action button
 cta__button__text: Get in touch
 
+formspree_id: mqaeorad
+
 # Add global cover image (This field adds a background to the top and bottom of the site.)
 cover__image: '/images/cover.jpg'
 
@@ -123,3 +125,4 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 social:
 - {icon: "ion-logo-linkedin", link: "https://linkedin.com/in/björn-biltzinger-b278a727b"}
 - {icon: "ion-logo-github", link: "https://github.com/BjoernBiltzinger"}
+- {icon: "ion-md-mail", link: "mailto:bjoernbiltzinger@gmx.de"}
