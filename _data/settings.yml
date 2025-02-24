@@ -46,7 +46,7 @@ author:
 
 projects__settings:
   projects__title: My <span class="text-span">Career</span> Stations # Add a 'text-span' class to highlight text.
-  projects__description: Summarizing my career stations and projects.
+  projects__description: Summarizing my career stations.
 
 
 #-------------------------------
